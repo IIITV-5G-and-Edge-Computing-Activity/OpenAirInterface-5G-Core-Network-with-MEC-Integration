@@ -6,7 +6,7 @@
 - **Mohit Ritwik Yernena** (202251071)
 - **Rohit Lokhande** (202251068)
 - **Narendra Deshmukh** (202251036)
-- **Susmit kumar Bharati** (202251138)
+- **Susmit Kumar Bharati** (202251138)
 
 ## **Project Overview**
 This project demonstrates the setup and deployment of a 5G Core Network using **OpenAirInterface (OAI)** with Docker containers. The architecture integrates essential 5G core network functions, including AMF, SMF, UPF, NRF, UDM, and UDR, alongside **Multi-access Edge Computing (MEC)**. By leveraging tools such as **UERANSIM** for UE and gNB simulation, the project showcases edge computing's ability to enhance latency-sensitive applications like video streaming, AR/VR, IoT, and real-time analytics.
